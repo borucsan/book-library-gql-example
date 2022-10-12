@@ -2,7 +2,7 @@
   "name": "library-refactoring-finished",
   "description": "",
   "dependencies": {
-    "apollo-server": "2.11.0",
+    "apollo-server": "2.25.4",
     "graphql": "14.6.0"
   },
   "license": "MIT",
